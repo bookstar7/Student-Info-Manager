@@ -1,2 +1,2 @@
-# Student_Info_Manager
+# Student-Info-Manager
 Java based student information management system
